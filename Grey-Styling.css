@@ -1,4 +1,5 @@
 #chat .chat-container .chat-messages .chat-main li
 {
-    font-size: 0.8 rem !important;
+    padding: 0 0 3px !important;
+    font-size: 0.8rem !important;
 }
